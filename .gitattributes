@@ -1,2 +1,1 @@
-similarity_vector
 similarity_vector filter=lfs diff=lfs merge=lfs -text
